@@ -1,0 +1,8 @@
+node_modules
+data
+saida
+.env
+.git
+*.md
+*.png
+test
